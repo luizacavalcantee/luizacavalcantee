@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hey! I'm Luiza Cavalcante 👋
 
-<!--
-**luizacavalcantee/luizacavalcantee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📚 Bachelor of Information Systems undergrad CIn-UFPE
+- 💻 I'm a Software Developer at CITi
+- 🌱 I’m currently learning more about React Native and Typescript
+- 🔭 I’m always open to new challenges
+<br>
+<div align="center">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizacavalcantee&layout=compact&langs_count=16&theme=nightowl" alt="Top Languages"/>
+</div>
+<br>
+<div align="center">
+  <img height="200em" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=luizacavalcantee&count_private=false&theme=nightowl&border_radius=10" alt="Streak Stats"/>
+</div>
