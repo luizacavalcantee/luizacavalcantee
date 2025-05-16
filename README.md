@@ -2,7 +2,6 @@
 
 - 📚 Bachelor of Information Systems undergrad CIn-UFPE
 - 💻 I'm a Software Developer at CITi
-- 🌱 I’m currently learning more about React Native and Typescript
 - 🔭 I’m always open to new challenges
 <br>
 <div align="center">
